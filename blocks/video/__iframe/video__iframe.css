@@ -1,3 +1,7 @@
+.video__iframe {
+  border-style: none;
+}
+
 .video__iframe:nth-last-of-type(1n) {
   margin-left: 20px;
 }
