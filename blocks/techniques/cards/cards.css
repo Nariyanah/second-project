@@ -1,0 +1,14 @@
+.cards {
+  list-style: none;
+  margin: 0 auto;
+  padding: 60px 0 0;
+  display: grid;
+  grid-template-columns: repeat(3, 240px);
+  grid-row-gap: 60px;
+  grid-column-gap: 100px;
+  width: 920px;
+  list-style-type: none;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  padding: 0;
+}
