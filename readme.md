@@ -1,3 +1,5 @@
+#HOW TO LEARN
+
 The page 'How to learn' was made to motivate you.
 
 It's only impormational with a few animations and various types of blocks.
