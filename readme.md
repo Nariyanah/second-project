@@ -1,4 +1,4 @@
-#HOW TO LEARN
+# HOW TO LEARN
 
 The page 'How to learn' was made to motivate you.
 
@@ -16,4 +16,4 @@ The page mentions techniques and methods of learning of certain famous people su
 
 * [Salman Khan](https://en.wikipedia.org/wiki/Salman_Khan "Khan's wiki page")
 
-and my page will also help you not to give up on your way of web-~~ninja~~developver
+and my page will also help you not to give up on your way of web-~~ninja~~developer.
