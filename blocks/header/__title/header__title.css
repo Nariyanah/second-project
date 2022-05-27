@@ -3,7 +3,8 @@
   font-size: 102px;
   font-weight: 700;
   align-self: center;
-  margin-left: 64px;
+  padding-left: 64px;
+  margin: 0;
   width: 730px;
   z-index: 3;
 }
